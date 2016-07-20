@@ -1,0 +1,19 @@
+{
+  "name": "rethink-tut",
+  "version": "1.0.0",
+  "description": "rethink sample app,",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/alexstory/rethink-tut.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexstory/rethink-tut/issues"
+  },
+  "homepage": "https://github.com/alexstory/rethink-tut#readme"
+}
